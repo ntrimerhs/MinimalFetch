@@ -7,4 +7,10 @@ g++ minimalfetch.cpp -o minimalfetch
 sudo cp minimalfetch /usr/bin/minimalfetch
 ```
 
+```Tested in :
+Gentoo Linux
+Arch Linux
+```
+
 Made by <a href="https://github.com/Nitradozzzz">Nitradoz.</a>
+
