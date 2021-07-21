@@ -1,5 +1,5 @@
 # MinimalFetch
-This is a command line System Information tool written in pure C++. 
+This is a command line System Information tool written in pure C++ in just 104 SLOC. 
 
 
 ```Installation :
