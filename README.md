@@ -12,5 +12,5 @@ Gentoo Linux
 Arch Linux
 ```
 
-Made by <a href="https://github.com/Nitradozzzz">Nitradoz.</a>
+Made by <a href="https://nitradoz.xyz/">Nitradoz.</a>
 
