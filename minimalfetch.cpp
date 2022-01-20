@@ -40,9 +40,9 @@ memTotal = memTotal / 1024 / 1024;
 memAvailable = memAvailable / 1024 / 1024;
 memFree = memFree / 1024 / 1024;
 
-memTotal = std::ceil(memTotal * 100.0) / 100.0;
-memAvailable = std::ceil(memAvailable * 100.0) / 100.0;
-memFree = std::ceil(memFree * 100.0) / 100.0;
+memTotal = ceil(memTotal * 100.0) / 100.0;
+memAvailable = ceil(memAvailable * 100.0) / 100.0;
+memFree = ceil(memFree * 100.0) / 100.0;
 
 
 cout << "Memory = " << memFree << "G / " << memTotal << "G " << endl;
