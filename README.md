@@ -1,16 +1,7 @@
 # MinimalFetch
-This is a command line System Information tool written in pure C++ in just 104 SLOC. 
+Poorly written command line system information tool in c++.
 
 Installation :
 ```
-g++ minimalfetch.cpp -o minimalfetch
-sudo cp minimalfetch /usr/bin/minimalfetch
+Just compile it with g++ no extra flags. You may want to add a link to /usr/bin/ or /usr/local/bin/.
 ```
-Tested in :
-```
-Gentoo Linux
-Arch Linux
-```
-
-Made by <a href="https://nitradoz.xyz/">Nitradoz.</a>
-
